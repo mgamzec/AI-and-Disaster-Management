@@ -10,8 +10,6 @@ The AI for Good Specialization on Coursera, led by AI expert Robert Monarch, is 
 
 Each course in the specialization is designed to be accessible to learners of all backgrounds and includes a variety of real-world case studies. The specialization offers a unique perspective on the role of AI in creating a positive societal impact and is a valuable resource for anyone interested in the practical applications of AI.
 
-[My Certificate](https://www.coursera.org/account/accomplishments/specialization/W43YY9EHSFWB)
-
 ## Notes
 
 ### AI and Public Health
